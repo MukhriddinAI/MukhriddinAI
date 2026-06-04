@@ -25,7 +25,7 @@ Men **AI  muhandisiman**. Sun'iy intellektga asoslangan avtonom agentlar, ko'p a
       <br />TensorFlow
     </td>
     <td align="center" width="96">
-      <img src="https://img.icons8.com/color/48/scikit-learn.png" width="40" height="40" alt="Scikit-Learn" />
+      <img src="[https://img.icons8.com/color/48/scikit-learn.png](https://tse3.mm.bing.net/th/id/OIP.votd9ieCXZai8b2NXTQ3YQHaES?r=0&cb=thfc1falcon&rs=1&pid=ImgDetMain&o=7&rm=3)" width="40" height="40" alt="Scikit-Learn" />
       <br />Scikit-Learn
     </td>
     <td align="center" width="96">
