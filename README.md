@@ -45,8 +45,8 @@ Men **AI  muhandisiman**. Sun'iy intellektga asoslangan avtonom agentlar, ko'p a
 
 ### 🤖 Asosiy Yo'nalishlarim va Loyihalarim:
 
-*   **👁️ Computer Vision:** Object Detection (ob'ektlarni aniqlash), Anti-spoofing tizimlari, Face Recognition (yuzni tanish), Car Number Plate Detection (avtomobil raqamlarini aniqlash) va Paddle Detection loyihalarini ishlab chiqish va joriy etish.
-*   **📊 Machine Learning Ecosystems:** NumPy, Pandas va boshqa ML frameworklarini yagona, optimallashgan va umumiy bir tizimga/frameworkka jamlash va backend infratuzilmasini qurish loyihalarida ishtirok etganman.
+*   **👁️ Computer Vision:** Object Detection (ob'ektlarni aniqlash), Anti-spoofing tizimlari, Face Recognition (yuzni tanish), Car Number Plate Detection (avtomobil raqamlarini aniqlash) va Paddle Detection loyihalarini ishlab chiqish va joriy etish. 
+*   **📊 Machine Learning Ecosystems:** Unify AI jamoasida NumPy, Pandas va boshqa ML frameworklarini yagona, optimallashgan va umumiy bir tizimga/frameworkka [IVY](https://github.com/AI-App/Ivy/) jamlash va backend infratuzilmasini qurish loyihalarida ishtirok etganman. [ivy.com](https://unify.ai/)
 *   **⚙️ IoT & Hardware Integration:** Arduino va Raspberry Pi multikontrollerlari yordamida aqlli qurilmalar, datchiklar va avtomatlashtirilgan apparat tizimlarini loyihalash hamda ularni dasturiy ta'minotga integratsiya qilish tajribasi.
 *   **🤖 AI Agents & LLM Workflows:** CrewAI va Model Context Protocol (MCP) yordamida ko'p vazifalarni bajaruvchi avtonom agentlar tizimini qurish.
 *   **🌱 AgroTech Solutions:** Qishloq xo'jaligi sohasida o'simlik kasalliklarini aniqlash (Computer Vision) va tahlil qilish uchun LLM inference pipeline'larini ishlab chiqish.
