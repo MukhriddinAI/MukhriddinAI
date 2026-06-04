@@ -1,4 +1,4 @@
-# Salom, men Mukhriddin! 👋
+# Salom, men Muxriddin! 👋
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=MukhriddinAI&label=Profilga+tashriflar&color=blue&style=flat-square" alt="MukhriddinAI" />
