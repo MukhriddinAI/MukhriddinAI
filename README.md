@@ -1,26 +1,86 @@
+# Salom, men Mukhriddin! 👋
 
-:computer: Python, Tensorflow ,PyTorch ,Numpy ,Seaborn ,Matplotlib, Scikit-learn ,Pandas ,and Keras 
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=MukhriddinAI&label=Profilga+tashriflar&color=blue&style=flat-square" alt="MukhriddinAI" />
+</p>
 
-<img src="https://github.com/Mukhriddin19980901/Mukhriddin19980901/blob/main/Python.gif" width="50" height="50" /> <img src="https://github.com/Mukhriddin19980901/Mukhriddin19980901/blob/main/tensorflow_logo_icon_168671.png " width="50" height="50" /><img src="https://github.com/Mukhriddin19980901/Mukhriddin19980901/blob/main/pytorch.png" width="50" height="50" /><img src="https://github.com/Mukhriddin19980901/Mukhriddin19980901/blob/main/numpy.png" width="50" height="50" /><img src="https://github.com/Mukhriddin19980901/Mukhriddin19980901/blob/main/seaborn0.png" width="50" height="50" /><img src="https://github.com/Mukhriddin19980901/Mukhriddin19980901/blob/main/matplotlib.png" width="50" height="50" /><img src="https://github.com/Mukhriddin19980901/Mukhriddin19980901/blob/main/sklearn.png" width="50" height="50" /><img src="https://github.com/Mukhriddin19980901/Mukhriddin19980901/blob/main/pandas.png" width="50" height="50" /><img src="https://github.com/Mukhriddin19980901/Mukhriddin19980901/blob/main/keras.png" width="50" height="50" /> 
+Men **AI va Backend muhandisiman**. Sun'iy intellektga asoslangan avtonom agentlar, ko'p agentli tizimlar (Multi-Agent Systems) va murakkab backend arxitekturalarini qurish bilan shug'ullanaman. AgroTech (qishloq xo'jaligi texnologiyalari) va bozor tadqiqotlarini avtomatlashtirish yo'nalishlarida tajribaga egaman.
 
+---
 
+### 🛠️ Men foydalanadigan texnologiyalar:
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/Mukhriddin19980901/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/mukhriddin-khaydarov-8a9729209?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B%2BCIZgWrjTdCgOz8C2ujWZw%3D%3D/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/mukhriddin.khaydarov.9)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/@muhriddin______/)  [<img src='https://github.com/Mukhriddin19980901/Mukhriddin19980901/blob/main/kaggle.png' alt='linkedin' height='40'>](https://www.kaggle.com/muhriddinmalik) 
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=python" width="40" height="40" alt="Python" />
+      <br />Python
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=pytorch" width="40" height="40" alt="PyTorch" />
+      <br />PyTorch
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=tensorflow" width="40" height="40" alt="TensorFlow" />
+      <br />TensorFlow
+    </td>
+    <td align="center" width="96">
+      <img src="https://img.icons8.com/color/48/scikit-learn.png" width="40" height="40" alt="Scikit-Learn" />
+      <br />Scikit-Learn
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=postgres" width="40" height="40" alt="PostgreSQL" />
+      <br />PostgreSQL
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=git" width="40" height="40" alt="Git" />
+      <br />Git
+    </td>
+  </tr>
+</table>
 
+**Shuningdek:** LangChain, CrewAI, Gemini Pro/Flash API, Claude API, Vertex AI, Pandas, NumPy, OpenCV, Mediapipe.
 
+---
 
-Certificates : 
+### 🤖 Asosiy Yo'nalishlarim va Loyihalarim:
+*   **AI Agents & LLM Workflows:** CrewAI va Model Context Protocol (MCP) yordamida ko'p vazifalarni bajaruvchi avtonom agentlar tizimini qurish.
+*   **AgroTech Solutions:** Qishloq xo'jaligi sohasida o'simlik kasalliklarini aniqlash (Computer Vision) va tahlil qilish uchun LLM inference pipeline'larini ishlab chiqish.
+*   **Market Automation:** Bozor tendensiyalari va yetkazib beruvchilar ishonchliligini avtomatik tahlil qiluvchi aqlli agentlar.
 
-<img src="https://github.com/Mukhriddin19980901/Mukhriddin19980901/blob/main/coursera_ai.png " width="200" height="200" /><img src="https://github.com/MukhriddinAI/Mukhriddin19980901/blob/main/Mukhriddin%20Khaydarov%20-%20Computer%20Vision.png" width="200" height="200" />
+---
 
-<img src="https://github.com/Mukhriddin19980901/Mukhriddin19980901/blob/main/cert-24637256-1161%20(3).png " width="200" height="200" /><img src="https://github.com/Mukhriddin19980901/Mukhriddin19980901/blob/main/Mukhriddin%20Khaydarov%20-%20Pandas%20(1).png?raw=true" width="200" height="200" />
+### 📜 Sertifikatlar va Yutuqlar:
 
-  📎[Kaggle](https://www.kaggle.com/muhriddinmalik) 
-  
-  📎[Medium](https://medium.com/@mukhriddinmalik)
-  
-  
+Alohida sertifikatlar va muvaffaqiyatli topshirilgan kurslar:
 
- 
- 
-![Mukhriddin's GitHub stats](https://github-readme-stats.vercel.app/api?username=MukhriddinAI)
+<p align="left">
+  <img src="https://github.com/MukhriddinAI/MukhriddinAI/blob/main/coursera_ai.png?raw=true" width="220" alt="Coursera AI" style="margin-right: 10px;" />
+  <img src="https://github.com/MukhriddinAI/MukhriddinAI/blob/main/Muhriddin%20Khaydarov%20-%20Computer%20Vision.png?raw=true" width="220" alt="Computer Vision" style="margin-right: 10px;" />
+  <img src="https://github.com/MukhriddinAI/MukhriddinAI/blob/main/cert-24637256-1161%20(3).png?raw=true" width="220" alt="Certificate" style="margin-right: 10px;" />
+  <img src="https://github.com/MukhriddinAI/MukhriddinAI/blob/main/Muhriddin%20Khaydarov%20-%20Pandas%20(1).png?raw=true" width="220" alt="Pandas" />
+</p>
+
+---
+
+### 📊 GitHub Statistikam:
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=MukhriddinAI&show_icons=true&theme=radial&hide_border=true" alt="Mukhriddin's GitHub stats" />
+</p>
+
+---
+
+### 🌐 Men bilan bog'lanish:
+
+<p align="left">
+  <a href="https://linkedin.com/in/mukhriddin-khaydarov-8a9729209" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.kaggle.com/muhriddinmalik" target="_blank">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
+  </a>
+  <a href="https://medium.com/@mukhriddinmalik" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
+  </a>
+</p>
