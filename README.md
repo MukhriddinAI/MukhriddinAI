@@ -66,9 +66,8 @@ Alohida sertifikatlar va muvaffaqiyatli topshirilgan kurslar:
 ### 📊 GitHub Statistikam:
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=MukhriddinAI&show_icons=true&theme=radial&hide_border=true" alt="Mukhriddin's GitHub stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MukhriddinAI&theme=tokyonight" alt="Mukhriddin's GitHub Stats" />
 </p>
-
 ---
 
 ### 🌐 Men bilan bog'lanish:
