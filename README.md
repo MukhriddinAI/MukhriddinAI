@@ -61,7 +61,7 @@ Alohida sertifikatlar va muvaffaqiyatli topshirilgan kurslar:
   <img src="https://raw.githubusercontent.com/MukhriddinAI/MukhriddinAI/main/coursera_ai.png" width="210" alt="Coursera AI" />
   <img src="https://raw.githubusercontent.com/MukhriddinAI/MukhriddinAI/main/Muhriddin%20Khaydarov%20-%20Computer%20Vision.png" width="210" alt="Computer Vision" />
   <img src="https://raw.githubusercontent.com/MukhriddinAI/MukhriddinAI/main/cert-24637256-1161%20(3).png" width="210" alt="Certificate" />
-  <img src="https://raw.githubusercontent.com/MukhriddinAI/MukhriddinAI/main/pandas_cert.png" width="210" alt="Pandas" />"
+  <img src="https://raw.githubusercontent.com/MukhriddinAI/MukhriddinAI/main/pandas_cert.png" width="210" alt="Pandas" />
 </p>
 
 ---
