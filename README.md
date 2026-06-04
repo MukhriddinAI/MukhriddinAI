@@ -21,32 +21,35 @@ Men **AI  muhandisiman**. Sun'iy intellektga asoslangan avtonom agentlar, ko'p a
       <br />PyTorch
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=tensorflow" width="40" height="40" alt="TensorFlow" />
-      <br />TensorFlow
+      <img src="https://skillicons.dev/icons?i=opencv" width="40" height="40" alt="OpenCV" />
+      <br />OpenCV
     </td>
     <td align="center" width="96">
-      <img src="https://tse3.mm.bing.net/th/id/OIP.votd9ieCXZai8b2NXTQ3YQHaES?r=0&cb=thfc1falcon&rs=1&pid=ImgDetMain&o=7&rm=3" width="40" height="40" alt="Scikit-Learn" />
-      <br />Scikit-Learn
+      <img src="https://skillicons.dev/icons?i=arduino" width="40" height="40" alt="Arduino" />
+      <br />Arduino
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=raspberrypi" width="40" height="40" alt="Raspberry Pi" />
+      <br />Raspberry Pi
     </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=postgres" width="40" height="40" alt="PostgreSQL" />
       <br />PostgreSQL
     </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=git" width="40" height="40" alt="Git" />
-      <br />Git
-    </td>
   </tr>
 </table>
 
-**Shuningdek:** LangChain, CrewAI, AI, Vertex AI, Pandas, NumPy, OpenCV, Mediapipe.
+**Shuningdek:** LangChain, CrewAI,LLMs Integration, Vertex AI, Pandas, NumPy, OpenCV, Mediapipe.
 
 ---
 
 ### 🤖 Asosiy Yo'nalishlarim va Loyihalarim:
-*   **AI Agents & LLM Workflows:** CrewAI va Model Context Protocol (MCP) yordamida ko'p vazifalarni bajaruvchi avtonom agentlar tizimini qurish.
-*   **AgroTech Solutions:** Qishloq xo'jaligi sohasida o'simlik kasalliklarini aniqlash (Computer Vision) va tahlil qilish uchun LLM inference pipeline'larini ishlab chiqish.
-*   **Market Automation:** Bozor tendensiyalari va yetkazib beruvchilar ishonchliligini avtomatik tahlil qiluvchi aqlli agentlar.
+
+*   **👁️ Computer Vision:** Object Detection (ob'ektlarni aniqlash), Anti-spoofing tizimlari, Face Recognition (yuzni tanish), Car Number Plate Detection (avtomobil raqamlarini aniqlash) va Paddle Detection loyihalarini ishlab chiqish va joriy etish.
+*   **📊 Machine Learning Ecosystems:** NumPy, Pandas va boshqa ML frameworklarini yagona, optimallashgan va umumiy bir tizimga/frameworkka jamlash va backend infratuzilmasini qurish loyihalarida ishtirok etganman.
+*   **⚙️ IoT & Hardware Integration:** Arduino va Raspberry Pi multikontrollerlari yordamida aqlli qurilmalar, datchiklar va avtomatlashtirilgan apparat tizimlarini loyihalash hamda ularni dasturiy ta'minotga integratsiya qilish tajribasi.
+*   **🤖 AI Agents & LLM Workflows:** CrewAI va Model Context Protocol (MCP) yordamida ko'p vazifalarni bajaruvchi avtonom agentlar tizimini qurish.
+*   **🌱 AgroTech Solutions:** Qishloq xo'jaligi sohasida o'simlik kasalliklarini aniqlash (Computer Vision) va tahlil qilish uchun LLM inference pipeline'larini ishlab chiqish.
 
 ---
 
